@@ -3,6 +3,8 @@ Adjusted limited dependent variable mixture model Use aldvmm With (In) R Softwar
 
 Adjusted Limited Dependent Variable Mixture Models to EQ-5D Use aldvmm With (In) R Software
 
+https://www.youtube.com/watch?v=ow5xOhUbPGo
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
